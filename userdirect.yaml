@@ -25,4 +25,5 @@ payload:
   - '+.twitchsvc.net'
   - '+.pubsub-edge.twitch.tv'
   - '+.usher.ttvnw.net'
+  - '+.cloudfront.net'
   #
