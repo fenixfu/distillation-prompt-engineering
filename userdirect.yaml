@@ -28,3 +28,5 @@ payload:
   - '+.usher.ttvnw.net'
   - '+.cloudfront.net'
   #
+  # apple iadsdk
+  - '+.iadsdk.apple.com'
