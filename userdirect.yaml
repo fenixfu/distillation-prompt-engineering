@@ -27,6 +27,3 @@ payload:
   - '+.pubsub-edge.twitch.tv'
   - '+.usher.ttvnw.net'
   - '+.cloudfront.net'
-  #
-  # apple iadsdk
-  - '+.iadsdk.apple.com'
