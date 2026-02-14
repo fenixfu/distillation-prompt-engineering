@@ -27,3 +27,5 @@ payload:
   - '+.pubsub-edge.twitch.tv'
   - '+.usher.ttvnw.net'
   - '+.cloudfront.net'
+  ## mobile ad sdk
+  - 'ca.iadsdk.apple.com'
